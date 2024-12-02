@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BinarybeatsApplication<binarybeats>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dsa.binarybeats.BinarybeatsApplication",
+            "projectName": "binarybeats",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
