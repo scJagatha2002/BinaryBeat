@@ -1,0 +1,6 @@
+[submodule "BinaryBeat_FE"]
+	path = BinaryBeat_FE
+	url = https://github.com/scJagatha2002/BinaryBeat_FE.git
+[submodule "binarybeats"]
+	path = binarybeats
+	url = https://github.com/scJagatha2002/binarybeats.git
